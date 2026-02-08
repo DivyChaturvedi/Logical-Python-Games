@@ -21,6 +21,10 @@
 #     s=s+roman(ans)
 # print(s)
 
+'''Random question'''
 
+n=5
+for i in range(n):
+    print(i*"*")
 
 
